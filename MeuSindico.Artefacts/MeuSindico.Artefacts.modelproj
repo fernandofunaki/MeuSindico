@@ -22,16 +22,26 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
   <ItemGroup>
-    <Content Include="User Case\UC-Interação.vsdx">
+    <Content Include="00-Organic Documents\User Case\UC-Interação.pdf">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="User Case\UC-Sustentabilidade.vsdx">
+    <Content Include="00-Organic Documents\User Case\UC-Sustentabilidade.pdf">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="02-User Case\UC-Interação.vsdx">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="02-User Case\UC-Sustentabilidade.vsdx">
       <SubType>Content</SubType>
     </Content>
     <Folder Include="ModelDefinition\" />
     <Content Include="ModelDefinition\MeuSindico.Artefacts.uml">
       <SubType>Content</SubType>
     </Content>
-    <Folder Include="User Case" />
+    <Folder Include="01-Data Base Model" />
+    <Folder Include="00-Organic Documents" />
+    <Folder Include="00-Organic Documents\Data Base Model" />
+    <Folder Include="00-Organic Documents\User Case" />
+    <Folder Include="02-User Case" />
   </ItemGroup>
 </Project>
