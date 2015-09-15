@@ -10,7 +10,8 @@ Alertas notificando as assembléias ou avisos serão encaminhadas a cada condôm
 O sistema deverá ser acessado somente pelos condôminos e membros do conselho administrativos,
 onde os memos serão identificados através de suas residências com exceção do síndico que poderá ser terceirizado.
 
-70% dos usuários possuem smartphones, 80% tem acesso a internet e apenas 20% não possuem recursos para o acesso ao sistema. Portanto deve ser possível a impressão dos eventos em papel para serem colados no quadro de aviso nos elevadores e áreas de serviço do condomínio. Dos 70% de usuário com smartphones 45% são aparelhos que utilizam o sistema androids com a menor versão 4.1 e os outros 25 % utilizam IOS com a menor versão 3.
+70% dos usuários possuem smartphones, 80% tem acesso a internet e apenas 20% não possuem recursos para o acesso ao sistema. Portanto deve ser possível a impressão dos eventos em papel para serem colados no quadro de aviso nos elevadores e áreas de serviço do condomínio. 
+Dos 70% de usuário com smartphones 45% são aparelhos que utilizam o sistema android com a menor versão 4.1 e os outros 25 % utilizam IOS com a menor versão 3.
 
 As interfaces do sistema, terão seus componentes e estilos padronizados. Deve permitir de forma flexível e simples a atualização de seu estilos visuais acompanhando as tendências de mercado.
 
